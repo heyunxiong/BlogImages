@@ -6,7 +6,7 @@
     	https://raw.githubusercontent.com/heyunxiong/BlogImages/master/图片名字.png
 
 - markdown格式: 
-    	\![](https://raw.githubusercontent.com/heyunxiong/BlogImages/master/图片名字.png)
+    	\!\[](https://raw.githubusercontent.com/heyunxiong/BlogImages/master/图片名字.png)
 
 - 快速使用链接: 
 
